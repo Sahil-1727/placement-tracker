@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+backend/venv/
+backend/instance/
+backend/__pycache__/
+backend/routes/__pycache__/
+*.pyc
+*.db
+flask.log
+nohup.out
+*.md
+!src/**/*.md
