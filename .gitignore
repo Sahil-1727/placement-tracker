@@ -9,5 +9,3 @@ backend/routes/__pycache__/
 *.db
 flask.log
 nohup.out
-*.md
-!src/**/*.md
